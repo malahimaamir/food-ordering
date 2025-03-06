@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pizza Fiesta Website
 This is a fullstack food ordering app built with Next.js 14 (React.js, MongoDB, Tailwind CSS).
 <br>
@@ -34,3 +35,6 @@ Admin Dashboard
 ## Getting Started
 
 View a demo of this app [here](https://pizza-fiesta.vercel.app/).<br><br>
+=======
+# food-ordering
+>>>>>>> f93f1c9ec853402bd95ec87293e9433304193e6b
